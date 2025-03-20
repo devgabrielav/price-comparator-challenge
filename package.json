@@ -1,0 +1,21 @@
+{
+  "name": "categorizacao-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devgabrielav/categorizacao-challenge.git"
+  },
+  "keywords": [],
+  "author": "devgabrielav",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/devgabrielav/categorizacao-challenge/issues"
+  },
+  "homepage": "https://github.com/devgabrielav/categorizacao-challenge#readme"
+}
